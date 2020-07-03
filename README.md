@@ -1,7 +1,7 @@
 Hangang
 --------
 # Hangang
-You can get temperature of Hangang / Han River.
+You can get temperature of Hangang / Han River. 한강 수온 API
 
 # Example
 ```js
