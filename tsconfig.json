@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "rootDir": "./src/",
+        "outDir": "./dist/",
+        "noImplicitAny": true,
+        "module": "commonjs",
+        "target": "es5",
+        "esModuleInterop": true,
+        "declaration": true
+    },
+    "include": [
+      "./src/*",
+      "./src/**/*"
+    ]
+}
